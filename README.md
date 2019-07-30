@@ -1,4 +1,4 @@
-# xzvue
+# snoyvue
 
 ## Project setup
 ```
